@@ -1,5 +1,5 @@
 // Jansen - Hacktiv8 Batch 37 - King Fox
-// Exercise 8 - Melee Range Grouping
+// Exercise 8 - Delete Symbol (Regex)
 
 // Create function to remove any characters other than a-z and 0-9 in a string using Regex
 function hapusSimbol(str) {
